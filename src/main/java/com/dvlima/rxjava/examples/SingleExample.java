@@ -1,4 +1,4 @@
-package com.dvlima.rxjava;
+package com.dvlima.rxjava.examples;
 
 import rx.Observable;
 import rx.Single;
